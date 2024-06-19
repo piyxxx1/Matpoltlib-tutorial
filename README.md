@@ -41,5 +41,5 @@ This repository is organized into several sections:
 To get started with the tutorials, clone this repository:
 
 ```bash
-git clone https://github.com/your-username/matplotlib-tutorial.git
+git clone https://github.com/piyxxx1/matplotlib-tutorial.git
 cd matplotlib-tutorial
