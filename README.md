@@ -10,11 +10,11 @@ Matplotlib is a widely used library for creating static, animated, and interacti
 
 This repository is organized into several sections:
 
-1. **Introduction to Matplotlib**
+ **Introduction to Matplotlib**
    - Basic plotting commands
    - Customizing plots with labels, colors, and styles
 
-2. **Different Types of Plots**
+ **Different Types of Plots**
    - Line plots
    - Scatter plots
    - Bar plots
@@ -23,18 +23,6 @@ This repository is organized into several sections:
    - Box plots
    - 3D plots
 
-3. **Advanced Topics**
-   - Subplots and layouts
-   - Annotations and text
-   - Plotting with pandas data structures
-   - Saving plots to file
-
-4. **Examples**
-   - Real-world examples demonstrating complex visualizations
-   - Use cases for various plot types and configurations
-
-5. **Contributing**
-   - Guidelines for contributing to this repository
 
 ## Getting Started
 
