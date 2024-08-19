@@ -20,8 +20,7 @@ This repository is organized into several sections:
    - Bar plots
    - Histograms
    - Pie charts
-   - Box plots
-   - 3D plots
+   - subplot
 
 
 ## Getting Started
